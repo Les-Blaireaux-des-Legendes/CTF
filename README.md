@@ -41,7 +41,7 @@ Spécialisée en **OSINT**, on traque l’info dans des scénarios d’enquête 
 
 Vous organisez un CTF ? Vous cherchez une team à suivre, à défier ou à soutenir ?  
 - 👉 Contactez-nous via GitHub ou [LinkedIn!](https://www.linkedin.com/company/bdl-osint)
-- Mail: blaireauxdeslegendes@protonmail.com
+- Mail: blaireaudeslegendes@protonmail.com
 
 ---
 
