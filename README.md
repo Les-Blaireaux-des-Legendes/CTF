@@ -7,15 +7,20 @@ Chaque dossier contient des **captures d’écran officielles** des classements 
 
 ---
 
-## 📅 Historique des CTF
+## 📈 Résultats CTF OSINT – Équipe Les Blaireaux des Légendes
 
-| CTF | Organisateur | Année | Résultat |
-|-----|--------------|-------|----------|
-|  🕵️ Trace Labs OSINT Search Party CTF | Trace Labs | 2025 | **🏅 Podium: 1er**|
-|  ⬡  Hexa OSINT CTF | Association HEXA | 2024 | Phase de qualif & finale **🏅 Podium: 1er**|
-| 🕵️ Stranger Case CTF OSINT | ESNA de Bretagne | 2024 | **🏅 Podium: 2ème** |
-| 👢 Le Bruit des Bottes OSINT CTF | OSCAR Zulu OSINT Crew | 2025 | **🏅 Podium: 3ème** |
-| 🚔 CTE Le Principe de Locard | Gendarmerie Nationale | 2024 | Participation (6ème) |
+| 🗓️ Année | 🏁 CTF                               | 🏢 Organisateur                    | 🏆 Résultat                        |
+|----------|--------------------------------------|------------------------------------|-----------------------------------|
+| 2025     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                         | 🥇 **1er**                          |
+| 2025     | 👢 **Le Bruit des Bottes**               | Oscar Zulu OSINT Crew              | 🥉 **3ème**                         |
+| 2024     | ⬡ **HEXA OSINT CTF**                     | Association HEXA                   | 🥇 **1er (qualif + finale)**        |
+| 2024     | 🕵️ **Stranger Case CTF OSINT**           | ESNA de Bretagne                   | 🥈 **2ème**                         |
+| 2024     | 🕵️ **Stranger Case X-Hunt Finale**       | ESNA + AEGE                        | 🥉 **3ème**                        |
+| 2024     | 🚔 **CTE Le Principe de Locard**         | Gendarmerie Nationale              |    **6ème**                         |
+| 2024     | 💊 **Medileak OSINT CTF**                | Oscar Zulu OSINT Crew              |    **6ème**                         |
+| 2024     | 🦊 **HACK'OSINT CTF**                    | HACK’OLYTE                         |    **8ème**                         |
+
+
 ---
 
 ## 🧾 Organisation
