@@ -11,6 +11,7 @@ Chaque dossier contient des **captures d’écran officielles** des classements 
 
 | CTF | Organisateur | Année | Résultat |
 |-----|--------------|-------|----------|
+|  🕵️ Trace Labs OSINT Search Party CTF | Trace Labs | 2025 | **🏅 Podium: 1er**|
 |  ⬡  Hexa OSINT CTF | Association HEXA | 2024 | Phase de qualif & finale **🏅 Podium: 1er**|
 | 🕵️ Stranger Case CTF OSINT | ESNA de Bretagne | 2024 | **🏅 Podium: 2ème** |
 | 👢 Le Bruit des Bottes OSINT CTF | OSCAR Zulu OSINT Crew | 2025 | **🏅 Podium: 3ème** |
@@ -40,7 +41,7 @@ Spécialisée en **OSINT**, on traque l’info dans des scénarios d’enquête 
 ## 📬 Contact & Sponsoring
 
 Vous organisez un CTF ? Vous cherchez une team à suivre, à défier ou à soutenir ?  
-- 👉 Contactez-nous via GitHub ou [LinkedIn!](https://www.linkedin.com/company/bdl-osint)
+- 👉 Contactez-nous via [LinkedIn!](https://www.linkedin.com/company/bdl-osint)
 - Mail: blaireaudeslegendes@protonmail.com
 
 ---
