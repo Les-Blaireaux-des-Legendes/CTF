@@ -11,6 +11,8 @@ Chaque dossier contient des **captures d’écran officielles** des classements 
 
 | 🗓️ Année | 🏁 CTF                               | 🏢 Organisateur                    | 🏆 Résultat                        |
 |----------|--------------------------------------|------------------------------------|-----------------------------------|
+| 2025     | 🕵🏻 **CTF EGE HUNT**                      | École de Guerre Économique         | 🥇 **1er (qualif + finale)**        |
+| 2025     | 🦊 **Hack'OSINT**                        | Hackolyte                          | 🥇 **1er** (avec l'équipe TacOSINT) |
 | 2025     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                         | 🥇 **1er**                          |
 | 2025     | 👢 **Le Bruit des Bottes**               | Oscar Zulu OSINT Crew              | 🥉 **3ème**                         |
 | 2024     | ⬡ **HEXA OSINT CTF**                     | Association HEXA                   | 🥇 **1er (qualif + finale)**        |
