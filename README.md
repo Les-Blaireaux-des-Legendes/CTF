@@ -14,6 +14,7 @@ Chaque dossier contient, selon les événements, des **captures officielles de c
 |---|---|---|---|
 | 2026 | 🕵🏻 **Deep Threats** | Direction Générale de l'Armement (DGA) | 🥇 **1re place — plus de 490 équipes et plus de 1100 participants** |
 | 2026 | 🕵🏻 **Le Caire, nid d’espions** | SKOPEIN × EEIE | 🥇 **1re place — plus de 400 participants** |
+| 2026 | 🌲 **L'Appel de la Forêt** |  TacOSINT |  **4e place — 202 équipes inscrites / 448 joueurs** |
 | 2025 | 🕵🏻 **CTF HUNT EGE** | École de guerre économique | 🥇 **1re place — 67 équipes** |
 | 2025 | 🦊 **HACK’OSINT CTF** | HACK’OLYTE | 🥇 **1re place** *(avec l’équipe TacOSINT)* |
 | 2025 | 🕵️ **Trace Labs OSINT Search Party** | Trace Labs | 🥇 **1re place — plus de 100 équipes** |
